@@ -1,3 +1,7 @@
 *
 !/README.md
 !/.gitignore
+!/config
+!/config/options
+!/config/options/colors.scheme.xml
+!/config/options/laf.xml
