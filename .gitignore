@@ -3,9 +3,13 @@
 !/.gitignore
 !/config/
 !/config/disabled_plugins.txt
+!/config/codestyles/
+!/config/codestyles/Akihiro Kondo.xml
 !/config/keymaps/
 !/config/keymaps/Akihiro Kondo.xml
 !/config/options/
+!/config/options/code.style.schemes
+!/config/options/code.style.schemes.xml
 !/config/options/colors.scheme.xml
 !/config/options/editor.xml
 !/config/options/ide.general.xml
