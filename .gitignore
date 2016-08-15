@@ -2,7 +2,10 @@
 !/README.md
 !/.gitignore
 !/config
+!/config/keymaps
+!/config/keymaps/Akihiro Kondo.xml
 !/config/options
 !/config/options/colors.scheme.xml
 !/config/options/ide.general.xml
+!/config/options/keymap.xml
 !/config/options/laf.xml
