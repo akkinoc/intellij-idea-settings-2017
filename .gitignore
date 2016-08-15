@@ -1,11 +1,11 @@
 *
 !/README.md
 !/.gitignore
-!/config
+!/config/
 !/config/disabled_plugins.txt
-!/config/keymaps
+!/config/keymaps/
 !/config/keymaps/Akihiro Kondo.xml
-!/config/options
+!/config/options/
 !/config/options/colors.scheme.xml
 !/config/options/editor.xml
 !/config/options/ide.general.xml
