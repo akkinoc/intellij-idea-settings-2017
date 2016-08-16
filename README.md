@@ -64,3 +64,4 @@ Settings (manually)
 
 * Plugins
     * .ignore: Install
+    * Lombok Plugin: Install
