@@ -48,6 +48,9 @@ Project Default Settings
                 * Documentation: ON
     * Compiler
         * Make project automatically: ON
+        * Annotation Processors
+            * Default
+                * Enable annotation processing: ON
 
 Settings (manually)
 -------------------
