@@ -63,6 +63,14 @@ Settings
 
 * Path to Git executable: (Path on my computer)
 
+Settings (manually)
+-------------------
+
+### Plugins
+
+* .ignore: Install
+* Lombok Plugin: Install
+
 Project Default Settings
 ------------------------
 
@@ -92,10 +100,9 @@ Project Default Structure
 
 * Project SDK: (Path on my computer)
 
-Settings (manually)
--------------------
+Tip of the Day
+--------------
 
-### Plugins
+### Help >> Tip of the Day
 
-* .ignore: Install
-* Lombok Plugin: Install
+* Show Tips on Startup: OFF
