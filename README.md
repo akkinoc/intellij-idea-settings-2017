@@ -46,6 +46,8 @@ Project Default Settings
             * Automatically download
                 * Sources: ON
                 * Documentation: ON
+    * Compiler
+        * Make project automatically: ON
 
 Settings (manually)
 -------------------
