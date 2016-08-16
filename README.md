@@ -66,17 +66,6 @@ Settings
 
 * Path to Git executable: (Path on my computer)
 
-Settings (manually)
--------------------
-
-### Plugins
-
-* .ignore: Install
-* Lombok Plugin: Install
-
-Project Default Settings
-------------------------
-
 ### Build, Execution, Deployment >> Maven
 
 * Maven home directory: (Path on my computer)
@@ -96,8 +85,8 @@ Project Default Settings
 * Default
     * Enable annotation processing: ON
 
-Project Default Structure
--------------------------
+Project Structure
+-----------------
 
 ### Project Settings >> Project
 
@@ -109,3 +98,11 @@ Tip of the Day
 ### Help >> Tip of the Day
 
 * Show Tips on Startup: OFF
+
+Settings (manually)
+-------------------
+
+### Plugins
+
+* .ignore: Install
+* Lombok Plugin: Install
