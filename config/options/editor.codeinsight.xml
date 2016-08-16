@@ -1,0 +1,23 @@
+<application>
+  <component name="CodeFoldingSettings">
+    <option name="COLLAPSE_IMPORTS" value="false" />
+    <option name="COLLAPSE_FILE_HEADER" value="false" />
+  </component>
+  <component name="JavaCodeFoldingSettings">
+    <option name="collapseConstructorGenericParameters" value="false" />
+    <option name="collapseI18nMessages" value="false" />
+    <option name="collapseLambdas" value="false" />
+    <option name="collapseSuppressWarnings" value="false" />
+    <option name="COLLAPSE_ONE_LINE_METHODS" value="false" />
+    <option name="COLLAPSE_CLOSURES" value="false" />
+    <option name="COLLAPSE_CONSTRUCTOR_GENERIC_PARAMETERS" value="false" />
+    <option name="COLLAPSE_I18N_MESSAGES" value="false" />
+    <option name="COLLAPSE_SUPPRESS_WARNINGS" value="false" />
+  </component>
+  <component name="XmlFoldingSettings">
+    <option name="collapseEntities" value="false" />
+    <option name="collapseHtmlStyleAttribute" value="false" />
+    <option name="COLLAPSE_HTML_STYLE_ATTRIBUTE" value="false" />
+    <option name="COLLAPSE_ENTITIES" value="false" />
+  </component>
+</application>

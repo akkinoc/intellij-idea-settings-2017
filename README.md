@@ -21,6 +21,17 @@ Settings
     * General
         * Mouse
             * Change font size (Zoom) with Ctrl + Mouse Wheel: ON
+        * Code Folding
+            * Collapse by default:
+                * File header: OFF
+                * Imports: OFF
+                * HTML 'style' attribute: OFF
+                * XML entities: OFF
+                * One line methods: OFF
+                * Closures: OFF
+                * Generic constructor and method parameters: OFF
+                * I18n strings: OFF
+                * @SuppressWarnings: OFF
     * Code Style
         * Scheme: Akihiro Kondo
 * Plugins
