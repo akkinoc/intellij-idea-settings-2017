@@ -1,0 +1,10 @@
+<application>
+  <component name="MarkdownApplicationSettings">
+    <MarkdownCssSettings UriEnabled="false" StylesheetUri="" />
+    <MarkdownPreviewSettings DefaultSplitLayout="Show editor only">
+      <HtmlPanelProviderInfo>
+        <ProviderInfo name="JavaFX WebView" className="org.intellij.plugins.markdown.ui.preview.javafx.JavaFxHtmlPanelProvider" />
+      </HtmlPanelProviderInfo>
+    </MarkdownPreviewSettings>
+  </component>
+</application>

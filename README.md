@@ -95,6 +95,15 @@ Settings
 * Default
     * Enable annotation processing: ON
 
+### Languages & Frameworks >> Markdown
+
+* Apply CSS from URI: OFF
+
+### Languages & Frameworks >> Markdown >> Preview
+
+* Preview browser: JavaFX WebView
+* Default editor layout: Show editor only
+
 Project Structure
 -----------------
 
@@ -116,3 +125,4 @@ Settings (manually)
 
 * .ignore: Install
 * Lombok Plugin: Install
+* Markdown support: Install
