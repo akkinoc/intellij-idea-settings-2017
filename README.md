@@ -37,6 +37,16 @@ Settings
     * Terminal: Disabled
     * TestNG-J: Disabled
 
+Project Default Settings
+------------------------
+
+* Build, Execution, Deployment
+    * Maven
+        * Importing
+            * Automatically download
+                * Sources: ON
+                * Documentation: ON
+
 Settings (manually)
 -------------------
 

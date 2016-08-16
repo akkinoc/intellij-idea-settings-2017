@@ -26,6 +26,12 @@
             <option name="mavenHome" value="Bundled (Maven 3)" />
           </MavenGeneralSettings>
         </option>
+        <option name="importingSettings">
+          <MavenImportingSettings>
+            <option name="downloadDocsAutomatically" value="true" />
+            <option name="downloadSourcesAutomatically" value="true" />
+          </MavenImportingSettings>
+        </option>
       </component>
       <component name="ProjectInspectionProfilesVisibleTreeState">
         <entry key="Project Default">
