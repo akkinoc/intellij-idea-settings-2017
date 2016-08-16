@@ -102,10 +102,6 @@ Settings
 * Default
     * Enable annotation processing: ON
 
-### Languages & Frameworks >> Markdown
-
-* Apply CSS from URI: OFF
-
 ### Languages & Frameworks >> Markdown >> Preview
 
 * Preview browser: JavaFX WebView
