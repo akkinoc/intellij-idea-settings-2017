@@ -59,12 +59,16 @@ Settings
 * Terminal: Disabled
 * TestNG-J: Disabled
 
+### Version Control >> Git
+
+* Path to Git executable: (Path on my computer)
+
 Project Default Settings
 ------------------------
 
 ### Build, Execution, Deployment >> Maven
 
-* Maven home directory: Apache Maven 3.3.9
+* Maven home directory: (Path on my computer)
 
 ### Build, Execution, Deployment >> Maven >> Importing
 
@@ -86,7 +90,7 @@ Project Default Structure
 
 ### Project Settings >> Project
 
-* Project SDK: 1.8
+* Project SDK: (Path on my computer)
 
 Settings (manually)
 -------------------

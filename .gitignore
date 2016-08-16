@@ -18,6 +18,7 @@
 !/config/options/colors.scheme.xml
 !/config/options/editor.xml
 !/config/options/editor.codeinsight.xml
+!/config/options/git.xml
 !/config/options/ide.general.xml
 !/config/options/jdk.table.xml
 !/config/options/keymap.xml
