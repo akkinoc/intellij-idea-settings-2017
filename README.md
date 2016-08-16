@@ -42,6 +42,7 @@ Project Default Settings
 
 * Build, Execution, Deployment
     * Maven
+        * Maven home directory: Apache Maven 3.3.9
         * Importing
             * Automatically download
                 * Sources: ON

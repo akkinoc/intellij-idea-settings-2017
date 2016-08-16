@@ -21,4 +21,5 @@
 !/config/options/jdk.table.xml
 !/config/options/keymap.xml
 !/config/options/laf.xml
+!/config/options/mavenVersion.xml
 !/config/options/project.default.xml

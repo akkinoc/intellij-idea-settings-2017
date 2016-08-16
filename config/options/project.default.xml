@@ -26,7 +26,7 @@
       <component name="MavenImportPreferences">
         <option name="generalSettings">
           <MavenGeneralSettings>
-            <option name="mavenHome" value="Bundled (Maven 3)" />
+            <option name="mavenHome" value="C:/Software/apache-maven-3.3.9" />
           </MavenGeneralSettings>
         </option>
         <option name="importingSettings">
