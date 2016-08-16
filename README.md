@@ -43,6 +43,11 @@ Settings
     * I18n strings: OFF
     * @SuppressWarnings: OFF
 
+### Editor >> Editor Tabs
+
+* Tab Appearance
+    * Mark modified tabs with asterisk
+
 ### Editor >> Code Style
 
 * Scheme: Akihiro Kondo
