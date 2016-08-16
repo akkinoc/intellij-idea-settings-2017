@@ -36,3 +36,9 @@ Settings
     * Subversion Integration: Disabled
     * Terminal: Disabled
     * TestNG-J: Disabled
+
+Settings (manually)
+-------------------
+
+* Plugins
+    * .ignore: Install
