@@ -127,5 +127,6 @@ Settings (manually)
 ### Plugins
 
 * .ignore: Install
+* CodeGlance: Install
 * Lombok Plugin: Install
 * Markdown support: Install
