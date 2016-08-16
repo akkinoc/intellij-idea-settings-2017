@@ -74,8 +74,6 @@ Settings
 
 ### Version Control >> Ignore Files Support
 
-* General settings
-    * Notify about missing .gitignore file in the project: OFF
 * User templates
     * Example user template: Deleted
 
