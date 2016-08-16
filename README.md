@@ -10,6 +10,8 @@ Settings
 
 * UI Options
     * Theme: Darcula
+* Window Options
+    * Show memory indicator: ON
 
 ### Appearance & Behavior >> System Settings
 
