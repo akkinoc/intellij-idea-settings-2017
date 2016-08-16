@@ -52,6 +52,13 @@ Project Default Settings
             * Default
                 * Enable annotation processing: ON
 
+Project Default Structure
+-------------------------
+
+* Project Settings
+    * Project
+        * Project SDK: 1.8
+
 Settings (manually)
 -------------------
 

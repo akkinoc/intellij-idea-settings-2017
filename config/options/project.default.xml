@@ -65,7 +65,7 @@
         <ConfirmationsSetting value="0" id="Add" />
         <ConfirmationsSetting value="0" id="Remove" />
       </component>
-      <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" default="true" assert-keyword="true" jdk-15="true" />
+      <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" default="true" assert-keyword="true" jdk-15="true" project-jdk-name="1.8" project-jdk-type="JavaSDK" />
       <component name="PropertiesComponent">
         <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
         <property name="settings.editor.splitter.proportion" value="0.2" />
