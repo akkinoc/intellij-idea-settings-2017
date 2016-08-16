@@ -52,6 +52,11 @@ Settings
 
 * Scheme: Akihiro Kondo
 
+### Editor >> File Encodings
+
+* Properties Files
+    * Default encoding for properties files: UTF-8
+
 ### Plugins
 
 * Android Support: Disabled

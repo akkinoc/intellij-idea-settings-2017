@@ -23,6 +23,9 @@
       <component name="CompilerWorkspaceConfiguration">
         <option name="MAKE_PROJECT_ON_SAVE" value="true" />
       </component>
+      <component name="Encoding" defaultCharsetForPropertiesFiles="UTF-8">
+        <file url="PROJECT" charset="UTF-8" />
+      </component>
       <component name="MavenImportPreferences">
         <option name="generalSettings">
           <MavenGeneralSettings>
