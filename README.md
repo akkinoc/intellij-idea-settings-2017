@@ -11,6 +11,7 @@ Settings
 * UI Options
     * Theme: Darcula
 * Window Options
+    * Show tool window bars: ON
     * Show memory indicator: ON
 
 ### Appearance & Behavior >> System Settings
