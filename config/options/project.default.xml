@@ -49,6 +49,7 @@
           <MavenImportingSettings>
             <option name="downloadDocsAutomatically" value="true" />
             <option name="downloadSourcesAutomatically" value="true" />
+            <option name="importAutomatically" value="true" />
           </MavenImportingSettings>
         </option>
       </component>

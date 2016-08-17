@@ -93,6 +93,7 @@ File > Settings
 
 ### Build, Execution, Deployment > Maven > Importing
 
+* Import Maven projects automatically
 * Automatically download
     * Sources: ON
     * Documentation: ON
