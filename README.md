@@ -20,6 +20,8 @@ File > Settings
     * Reopen last project on startup: OFF
     * Confirm application exit: OFF
 * Project Opening: Open project in new window
+* Synchronization
+    * Use "safe write": OFF
 
 ### Appearance & Behavior > Notifications
 
