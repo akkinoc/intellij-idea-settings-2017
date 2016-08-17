@@ -1,0 +1,5 @@
+<application>
+  <component name="NotificationConfiguration">
+    <notification groupId="File Watcher Messages" displayType="NONE" />
+  </component>
+</application>

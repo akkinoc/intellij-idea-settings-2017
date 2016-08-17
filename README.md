@@ -21,6 +21,11 @@ File > Settings
     * Confirm application exit: OFF
 * Project Opening: Open project in new window
 
+### Appearance & Behavior > Notifications
+
+* File Watcher Messages
+    * Popup: No popup
+
 ### Keymap
 
 * Keymaps: Akihiro Kondo

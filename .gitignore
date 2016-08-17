@@ -29,5 +29,6 @@
 !/config/options/laf.xml
 !/config/options/markdown.xml
 !/config/options/mavenVersion.xml
+!/config/options/notifications.xml
 !/config/options/project.default.xml
 !/config/options/ui.lnf.xml
