@@ -29,6 +29,8 @@ File > Settings
 
 * Mouse
     * Change font size (Zoom) with Ctrl + Mouse Wheel: ON
+* Other
+    * Ensure line feed at file end on Save: ON
 
 ### Editor > General > Code Folding
 
