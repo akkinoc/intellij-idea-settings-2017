@@ -52,6 +52,10 @@ File > Settings
 
 * Scheme: Akihiro Kondo
 
+### Editor > Inspections
+
+* Profile: Project Default (Customized)
+
 ### Editor > File Encodings
 
 * Properties Files
