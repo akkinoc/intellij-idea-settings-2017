@@ -80,18 +80,18 @@ File > Settings
 
 ### Plugins
 
-* Android Support: Disabled
-* Ant Support: Disabled
-* CVS Integration: Disabled
-* Eclipse Integration: Disabled
-* Gradle: Disabled
-* Grooby: Disabled
-* hg4idea: Disabled
-* Kotlin: Disabled
-* Settings Repository: Disabled
-* Subversion Integration: Disabled
-* Terminal: Disabled
-* TestNG-J: Disabled
+* Android Support: Disable
+* Ant Support: Disable
+* CVS Integration: Disable
+* Eclipse Integration: Disable
+* Gradle: Disable
+* Grooby: Disable
+* hg4idea: Disable
+* Kotlin: Disable
+* Settings Repository: Disable
+* Subversion Integration: Disable
+* Terminal: Disable
+* TestNG-J: Disable
 
 ### Version Control > Confirmation
 
@@ -103,7 +103,7 @@ File > Settings
 ### Version Control > Ignore Files Support
 
 * User templates
-    * Example user template: Deleted
+    * Example user template: Delete
 
 ### Version Control > Git
 
@@ -128,6 +128,11 @@ File > Settings
 
 * Default
     * Enable annotation processing: ON
+
+### Languages & Frameworks > Schemas and DTDs
+
+* Ignored Schemas and DTDs:
+    * "http://maven.apache.org/DECORATION/1.7.0": Add
 
 ### Languages & Frameworks > Markdown > Preview
 

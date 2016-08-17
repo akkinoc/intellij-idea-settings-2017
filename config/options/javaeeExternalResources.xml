@@ -1,0 +1,5 @@
+<application>
+  <component name="ExternalResourceManagerImpl">
+    <ignored-resource url="http://maven.apache.org/DECORATION/1.7.0" />
+  </component>
+</application>
