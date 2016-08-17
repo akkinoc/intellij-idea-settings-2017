@@ -3,10 +3,10 @@ IntelliJ IDEA Settings
 
 My IntelliJ IDEA Settings.  
 
-Settings
---------
+File > Settings
+---------------
 
-### Appearance & Behavior >> Appearance
+### Appearance & Behavior > Appearance
 
 * UI Options
     * Theme: Darcula
@@ -14,7 +14,7 @@ Settings
     * Show tool window bars: ON
     * Show memory indicator: ON
 
-### Appearance & Behavior >> System Settings
+### Appearance & Behavior > System Settings
 
 * Startup / Shutdown
     * Reopen last project on startup: OFF
@@ -25,12 +25,12 @@ Settings
 
 * Keymaps: Akihiro Kondo
 
-### Editor >> General
+### Editor > General
 
 * Mouse
     * Change font size (Zoom) with Ctrl + Mouse Wheel: ON
 
-### Editor >> General >> Code Folding
+### Editor > General > Code Folding
 
 * Collapse by default:
     * File header: OFF
@@ -43,16 +43,16 @@ Settings
     * I18n strings: OFF
     * @SuppressWarnings: OFF
 
-### Editor >> Editor Tabs
+### Editor > General > Editor Tabs
 
 * Tab Appearance
     * Mark modified tabs with asterisk
 
-### Editor >> Code Style
+### Editor > Code Style
 
 * Scheme: Akihiro Kondo
 
-### Editor >> File Encodings
+### Editor > File Encodings
 
 * Properties Files
     * Default encoding for properties files: UTF-8
@@ -72,55 +72,53 @@ Settings
 * Terminal: Disabled
 * TestNG-J: Disabled
 
-### Version Control >> Ignore Files Support
+### Version Control > Ignore Files Support
 
 * User templates
     * Example user template: Deleted
 
-### Version Control >> Git
+### Version Control > Git
 
 * Path to Git executable: (Path on my computer)
 
-### Build, Execution, Deployment >> Maven
+### Build, Execution, Deployment > Maven
 
 * Maven home directory: (Path on my computer)
 
-### Build, Execution, Deployment >> Maven >> Importing
+### Build, Execution, Deployment > Maven > Importing
 
 * Automatically download
     * Sources: ON
     * Documentation: ON
 
-### Build, Execution, Deployment >> Compiler
+### Build, Execution, Deployment > Compiler
 
 * Make project automatically: ON
 
-### Build, Execution, Deployment >> Compiler >> Annotation Processors
+### Build, Execution, Deployment > Compiler > Annotation Processors
 
 * Default
     * Enable annotation processing: ON
 
-### Languages & Frameworks >> Markdown >> Preview
+### Languages & Frameworks > Markdown > Preview
 
 * Preview browser: JavaFX WebView
 * Default editor layout: Show editor only
 
-Project Structure
------------------
+File > Project Structure
+------------------------
 
-### Project Settings >> Project
+### Project Settings > Project
 
 * Project SDK: (Path on my computer)
 
-Tip of the Day
---------------
-
-### Help >> Tip of the Day
+Help > Tip of the Day
+---------------------
 
 * Show Tips on Startup: OFF
 
-Settings (manually)
--------------------
+File > Settings (manually)
+--------------------------
 
 ### Plugins
 
