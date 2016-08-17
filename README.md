@@ -150,6 +150,7 @@ File > Settings (manually)
 ### Plugins
 
 * .ignore: Install
+* BashSupport: Install
 * CodeGlance: Install
 * Lombok Plugin: Install
 * Markdown support: Install
