@@ -32,6 +32,10 @@ File > Settings
 * Other
     * Ensure line feed at file end on Save: ON
 
+### Editor > General > Appearance
+
+* Show whitespaces: ON
+
 ### Editor > General > Code Folding
 
 * Collapse by default:
