@@ -49,6 +49,10 @@ File > Settings
     * I18n strings: OFF
     * @SuppressWarnings: OFF
 
+### Editor > General > Console
+
+* Use soft wraps in console: ON
+
 ### Editor > General > Editor Tabs
 
 * Tab Appearance
