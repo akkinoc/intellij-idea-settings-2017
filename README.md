@@ -91,6 +91,13 @@ File > Settings
 * Terminal: Disabled
 * TestNG-J: Disabled
 
+### Version Control > Confirmation
+
+* When files are created
+    * Do not add
+* When files are deleted
+    * Do not remove
+
 ### Version Control > Ignore Files Support
 
 * User templates
