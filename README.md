@@ -39,6 +39,13 @@ File > Settings
 * Other
     * Ensure line feed at file end on Save: ON
 
+### Editor > General > Auto Import
+
+* Java
+    * Insert imports on paste: All
+    * Optimize imports on the fly: ON
+    * Add unambiguous imports on the fly: ON
+
 ### Editor > General > Appearance
 
 * Show whitespaces: ON
