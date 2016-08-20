@@ -49,6 +49,7 @@ File > Settings
 
 ### Editor > General > Appearance
 
+* Show method separators: ON
 * Show whitespaces: ON
 
 ### Editor > General > Code Completion
