@@ -36,3 +36,6 @@
 !/config/options/notifications.xml
 !/config/options/project.default.xml
 !/config/options/ui.lnf.xml
+
+!/config/templates/
+!/config/templates/**
