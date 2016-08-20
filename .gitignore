@@ -7,13 +7,16 @@
 !/config/disabled_plugins.txt
 
 !/config/codestyles/
-!/config/codestyles/Akihiro Kondo.xml
+!/config/codestyles/**
+
+!/config/fileTemplates/
+!/config/fileTemplates/**
 
 !/config/inspection/
-!/config/inspection/Default.xml
+!/config/inspection/**
 
 !/config/keymaps/
-!/config/keymaps/Akihiro Kondo.xml
+!/config/keymaps/**
 
 !/config/options/
 !/config/options/code.style.schemes

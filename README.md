@@ -80,6 +80,11 @@ File > Settings
 
 * Profile: Project Default (Customized)
 
+### Editor > File and Code Templates
+
+* Includes
+    * File Header: Customize
+
 ### Editor > File Encodings
 
 * Properties Files
