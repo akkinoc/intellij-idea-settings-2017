@@ -51,6 +51,11 @@ File > Settings
 
 * Show whitespaces: ON
 
+### Editor > General > Code Completion
+
+* Code Completion
+    * Autopopup documentation: ON
+
 ### Editor > General > Code Folding
 
 * Collapse by default:
