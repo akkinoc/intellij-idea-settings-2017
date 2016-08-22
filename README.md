@@ -79,6 +79,8 @@ File > Settings
 * Tab Appearance
     * Show tabs in single row: OFF
     * Mark modified tabs with asterisk: ON
+* Tab Closing Policy
+    * Tab limit: 50
 
 ### Editor > Code Style
 
