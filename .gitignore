@@ -22,6 +22,7 @@
 !/config/options/code.style.schemes
 !/config/options/code.style.schemes.xml
 !/config/options/colors.scheme.xml
+!/config/options/debugger.xml
 !/config/options/editor.xml
 !/config/options/editor.codeinsight.xml
 !/config/options/git.xml
