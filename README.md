@@ -59,7 +59,7 @@ File > Settings
 
 ### Editor > General > Code Folding
 
-* Collapse by default:
+* Collapse by default
     * File header: OFF
     * Imports: OFF
     * HTML 'style' attribute: OFF
@@ -77,7 +77,8 @@ File > Settings
 ### Editor > General > Editor Tabs
 
 * Tab Appearance
-    * Mark modified tabs with asterisk
+    * Show tabs in single row: OFF
+    * Mark modified tabs with asterisk: ON
 
 ### Editor > Code Style
 
@@ -114,10 +115,8 @@ File > Settings
 
 ### Version Control > Confirmation
 
-* When files are created
-    * Do not add
-* When files are deleted
-    * Do not remove
+* When files are created: Do not add
+* When files are deleted: Do not remove
 
 ### Version Control > Ignore Files Support
 
@@ -134,7 +133,7 @@ File > Settings
 
 ### Build, Execution, Deployment > Maven > Importing
 
-* Import Maven projects automatically
+* Import Maven projects automatically: ON
 * Automatically download
     * Sources: ON
     * Documentation: ON
@@ -150,12 +149,11 @@ File > Settings
 
 ### Build, Execution, Deployment > Coverage
 
-* When new coverage is gathered
-    * Replace active suites with the new one
+* When new coverage is gathered: Replace active suites with the new one
 
 ### Languages & Frameworks > Schemas and DTDs
 
-* Ignored Schemas and DTDs:
+* Ignored Schemas and DTDs
     * "http://maven.apache.org/DECORATION/1.7.0": Add
 
 ### Languages & Frameworks > Markdown > Preview
