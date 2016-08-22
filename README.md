@@ -149,6 +149,10 @@ File > Settings
 * Default
     * Enable annotation processing: ON
 
+### Build, Execution, Deployment > Debugger
+
+* Hide debug window on process termination: ON
+
 ### Build, Execution, Deployment > Coverage
 
 * When new coverage is gathered: Replace active suites with the new one
