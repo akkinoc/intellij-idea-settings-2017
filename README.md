@@ -31,6 +31,10 @@ File > Settings
 ### Keymap
 
 * Keymaps: Akihiro Kondo
+    * Main menu
+        * Window
+            * Editor Tabs
+                * Close: Ctrl + F4, Alt + W
 
 ### Editor > General
 
@@ -44,8 +48,8 @@ File > Settings
 
 * Java
     * Insert imports on paste: All
-    * Optimize imports on the fly: ON
     * Add unambiguous imports on the fly: ON
+    * Optimize imports on the fly: ON
 
 ### Editor > General > Appearance
 
@@ -65,7 +69,7 @@ File > Settings
     * HTML 'style' attribute: OFF
     * XML entities: OFF
     * One line methods: OFF
-    * Closures: OFF
+    * "Closures" (anonymous classes implementing one method, before Java 8): OFF
     * Generic constructor and method parameters: OFF
     * I18n strings: OFF
     * @SuppressWarnings: OFF
@@ -85,10 +89,24 @@ File > Settings
 ### Editor > Code Style
 
 * Scheme: Akihiro Kondo
+    * Line separator (fow new files): Unix and OS X (\n)
 
 ### Editor > Inspections
 
-* Profile: Project Default (Customized)
+* Profile: Project Default
+    * BashSupport
+        * Unresolved variable: OFF
+    * Ignore
+        Unused entry: OFF
+    * Java
+        * Declaration redundancy
+            * Actual method parameter is the same constant: OFF
+            * Declaration access can be weaker: OFF
+            * Unused declaration: OFF
+        * Lgging issues
+            * Logger initialized with foreign class: OFF
+    * Spelling
+        * Typo: OFF
 
 ### Editor > File and Code Templates
 
@@ -129,10 +147,6 @@ File > Settings
 
 * Path to Git executable: (Path on my computer)
 
-### Build, Execution, Deployment > Maven
-
-* Maven home directory: (Path on my computer)
-
 ### Build, Execution, Deployment > Maven > Importing
 
 * Import Maven projects automatically: ON
@@ -142,7 +156,7 @@ File > Settings
 
 ### Build, Execution, Deployment > Compiler
 
-* Make project automatically: ON
+* Build project automatically: ON
 
 ### Build, Execution, Deployment > Compiler > Annotation Processors
 
