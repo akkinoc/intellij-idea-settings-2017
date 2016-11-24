@@ -111,7 +111,7 @@ File > Settings
 ### Editor > File and Code Templates
 
 * Includes
-    * File Header: Customize
+    * File Header: (Customize)
 
 ### Editor > File Encodings
 
