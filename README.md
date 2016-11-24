@@ -118,6 +118,11 @@ File > Settings
 * Properties Files
     * Default encoding for properties files: UTF-8
 
+### Editor > File Types
+
+* HTML
+    * `*.jst`: Add
+
 ### Plugins
 
 * Android Support: Disable

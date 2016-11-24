@@ -25,6 +25,7 @@
 !/config/options/debugger.xml
 !/config/options/editor.xml
 !/config/options/editor.codeinsight.xml
+!/config/options/filetypes.xml
 !/config/options/git.xml
 !/config/options/ide.general.xml
 !/config/options/ignore.xml
