@@ -29,6 +29,7 @@
 !/config/options/git.xml
 !/config/options/ide.general.xml
 !/config/options/ignore.xml
+!/config/options/images.support.xml
 !/config/options/javaeeExternalResources.xml
 !/config/options/jdk.table.xml
 !/config/options/keymap.xml

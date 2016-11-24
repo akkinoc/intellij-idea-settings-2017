@@ -123,6 +123,11 @@ File > Settings
 * HTML
     * `*.jst`: Add
 
+### Editor > Images
+
+* Editor
+    * Zoom image with mouse wheel (Ctrl + Mouse Wheel): ON
+
 ### Plugins
 
 * Android Support: Disable
