@@ -42,7 +42,6 @@ File > Settings
     * Change font size (Zoom) with Ctrl + Mouse Wheel: ON
 * Other
     * Ensure line feed at file end on Save: ON
-    * Show quick documentation on mouse move: ON
 
 ### Editor > General > Auto Import
 
