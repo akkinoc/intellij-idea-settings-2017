@@ -1,10 +1,8 @@
-IntelliJ IDEA Settings
-======================
+# IntelliJ IDEA Settings
 
 My IntelliJ IDEA Settings.  
 
-File > Settings
----------------
+## File > Settings
 
 ### Appearance & Behavior > Appearance
 
@@ -202,20 +200,17 @@ File > Settings
 * Preview browser: JavaFX WebView
 * Default editor layout: Show editor only
 
-File > Project Structure
-------------------------
+## File > Project Structure
 
 ### Project Settings > Project
 
 * Project SDK: (Path on my computer)
 
-Help > Tip of the Day
----------------------
+## Help > Tip of the Day
 
 * Show Tips on Startup: OFF
 
-File > Settings (manually)
---------------------------
+## File > Settings (manually)
 
 ### Plugins
 
