@@ -94,6 +94,13 @@ File > Settings
             * Alignment
                 * Align parameter descriptions: OFF
                 * Align thrown exception descriptions: OFF
+        * Imports
+            * General
+                * Class count to use import with '*': 999
+                * Names count to use static import with '*': 999
+            * Packages to Use Import with '*'
+                * `import java.awt.*`: Delete
+                * `import javax.swing.*`: Delete
 
 ### Editor > Inspections
 
