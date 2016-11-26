@@ -89,6 +89,11 @@ File > Settings
 
 * Scheme: Akihiro Kondo
     * Line separator (fow new files): Unix and OS X (\n)
+    * Java
+        * JavaDoc
+            * Alignment
+                * Align parameter descriptions: OFF
+                * Align thrown exception descriptions: OFF
 
 ### Editor > Inspections
 

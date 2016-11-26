@@ -1,3 +1,5 @@
 <code_scheme name="Akihiro Kondo">
   <option name="LINE_SEPARATOR" value="&#10;" />
+  <option name="JD_ALIGN_PARAM_COMMENTS" value="false" />
+  <option name="JD_ALIGN_EXCEPTION_COMMENTS" value="false" />
 </code_scheme>
