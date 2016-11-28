@@ -99,6 +99,13 @@ My IntelliJ IDEA Settings.
             * Packages to Use Import with '*'
                 * `import java.awt.*`: Delete
                 * `import javax.swing.*`: Delete
+            * Import Layout
+                * Layout static imports separately: OFF
+                * `import java.*`: Sort
+                * `import javax.*`: Sort
+                * `<blank line>`: Sort
+                * `import all other imports`: Sort
+                * `<blank line>`: Sort
 
 ### Editor > Inspections
 
