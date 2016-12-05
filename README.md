@@ -122,6 +122,8 @@ My IntelliJ IDEA Settings.
             * Unused declaration: OFF
         * Lgging issues
             * Logger initialized with foreign class: OFF
+        * Probable bugs
+            * 'Optional.get()' without 'isPresent()' check: OFF
     * Spelling
         * Typo: OFF
 
