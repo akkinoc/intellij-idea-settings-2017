@@ -52,6 +52,7 @@ My IntelliJ IDEA Settings.
 
 * Show method separators: ON
 * Show whitespaces: ON
+* Show parameter name hints: OFF
 
 ### Editor > General > Code Completion
 
