@@ -116,6 +116,8 @@ My IntelliJ IDEA Settings.
     * Ignore
         Unused entry: OFF
     * Java
+        * Abstraction issues
+            * 'Optional' used as field or parameter type: OFF
         * Declaration redundancy
             * Actual method parameter is the same constant: OFF
             * Declaration access can be weaker: OFF
