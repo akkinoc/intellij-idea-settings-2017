@@ -143,6 +143,8 @@ My IntelliJ IDEA Settings.
 
 * HTML
     * `*.jst`: Add
+* Properties
+    * `*.factories`: Add
 
 ### Editor > Images
 
