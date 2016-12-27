@@ -121,6 +121,7 @@ My IntelliJ IDEA Settings.
         * Declaration redundancy
             * Actual method parameter is the same constant: OFF
             * Declaration access can be weaker: OFF
+            * Method returns the same value: OFF
             * Unused declaration: ON
                 * Options
                     * Members to report
