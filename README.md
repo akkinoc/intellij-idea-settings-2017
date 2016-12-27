@@ -121,8 +121,15 @@ My IntelliJ IDEA Settings.
         * Declaration redundancy
             * Actual method parameter is the same constant: OFF
             * Declaration access can be weaker: OFF
-            * Unused declaration: OFF
-        * Lgging issues
+            * Unused declaration: ON
+                * Options
+                    * Members to report
+                        * Classes: "Package-private": ON
+                        * Inner classes: "Package-private": ON
+                        * Fields: "Package-private": ON
+                        * Methods: "Package-private": ON
+                        * Parameter in "Package-private" methods: ON
+        * Logging issues
             * Logger initialized with foreign class: OFF
         * Probable bugs
             * 'Optional.get()' without 'isPresent()' check: OFF
