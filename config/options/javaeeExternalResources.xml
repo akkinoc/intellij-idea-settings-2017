@@ -1,5 +1,6 @@
 <application>
   <component name="ExternalResourceManagerImpl">
     <ignored-resource url="http://maven.apache.org/DECORATION/1.7.0" />
+    <ignored-resource url="http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" />
   </component>
 </application>

@@ -215,6 +215,7 @@ My IntelliJ IDEA Settings.
 
 * Ignored Schemas and DTDs
     * "http://maven.apache.org/DECORATION/1.7.0": Add
+    * "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd": Add
 
 ### Languages & Frameworks > Schemas and DTDs > Default XML Schemas
 
