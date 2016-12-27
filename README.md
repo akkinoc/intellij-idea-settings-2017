@@ -135,6 +135,8 @@ My IntelliJ IDEA Settings.
             * Logger initialized with foreign class: OFF
         * Probable bugs
             * 'Optional.get()' without 'isPresent()' check: OFF
+    * Properties Files
+        * Unused Property: OFF
     * Spelling
         * Typo: OFF
 
