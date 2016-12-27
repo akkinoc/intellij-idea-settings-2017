@@ -216,6 +216,10 @@ My IntelliJ IDEA Settings.
 * Ignored Schemas and DTDs
     * "http://maven.apache.org/DECORATION/1.7.0": Add
 
+### Languages & Frameworks > Schemas and DTDs > Default XML Schemas
+
+* XML Schema version: XML Schema 1.1
+
 ### Languages & Frameworks > Markdown > Preview
 
 * Preview browser: JavaFX WebView

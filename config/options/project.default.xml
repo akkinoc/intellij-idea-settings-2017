@@ -87,6 +87,9 @@
         <ConfirmationsSetting value="1" id="Add" />
         <ConfirmationsSetting value="1" id="Remove" />
       </component>
+      <component name="ProjectResources">
+        <xml-schema-version>XMLSchema_1_1</xml-schema-version>
+      </component>
       <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK" />
       <component name="PropertiesComponent">
         <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
