@@ -95,6 +95,7 @@ My IntelliJ IDEA Settings.
                 * Align thrown exception descriptions: OFF
         * Imports
             * General
+                * Use fully qualified class names in JavaDoc: Never, use short name and add import
                 * Class count to use import with '*': 999
                 * Names count to use static import with '*': 999
             * Packages to Use Import with '*'
