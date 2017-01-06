@@ -122,6 +122,7 @@ My IntelliJ IDEA Settings.
         * Declaration redundancy
             * Actual method parameter is the same constant: OFF
             * Declaration access can be weaker: OFF
+            * Declaration can have final modifier: OFF
             * Method can be void: OFF
             * Method returns the same value: OFF
             * Unused declaration: ON
