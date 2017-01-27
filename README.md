@@ -102,11 +102,14 @@ My IntelliJ IDEA Settings.
                 * `import java.awt.*`: Delete
                 * `import javax.swing.*`: Delete
             * Import Layout
-                * Layout static imports separately: OFF
+                * Layout static imports separately: ON
                 * `import java.*`: Sort
                 * `import javax.*`: Sort
+                * `import static java.*`: Sort
+                * `import static javax.*`: Sort
                 * `<blank line>`: Sort
                 * `import all other imports`: Sort
+                * `import static all other imports`: Sort
                 * `<blank line>`: Sort
 
 ### Editor > Inspections
