@@ -224,6 +224,8 @@ My IntelliJ IDEA Settings.
 
 * Ignored Schemas and DTDs
     * "http://maven.apache.org/DECORATION/1.7.0": Add
+    * "http://www.puppycrawl.com/dtds/configuration_1_3.dtd": Add
+    * "http://www.puppycrawl.com/dtds/suppressions_1_1.dtd": Add
     * "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd": Add
 
 ### Languages & Frameworks > Schemas and DTDs > Default XML Schemas
