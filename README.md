@@ -111,6 +111,12 @@ My IntelliJ IDEA Settings.
                 * `import all other imports`: Sort
                 * `import static all other imports`: Sort
                 * `<blank line>`: Sort
+    * HTML
+        * Other
+            * Align attributes: OFF
+    * XML
+        * Other
+            * Align attributes: OFF
 
 ### Editor > Inspections
 

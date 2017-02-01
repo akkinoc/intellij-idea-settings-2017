@@ -19,7 +19,11 @@
   </option>
   <option name="JD_ALIGN_PARAM_COMMENTS" value="false" />
   <option name="JD_ALIGN_EXCEPTION_COMMENTS" value="false" />
+  <option name="HTML_ALIGN_ATTRIBUTES" value="false" />
   <JavaCodeStyleSettings>
     <option name="CLASS_NAMES_IN_JAVADOC" value="3" />
   </JavaCodeStyleSettings>
+  <XML>
+    <option name="XML_ALIGN_ATTRIBUTES" value="false" />
+  </XML>
 </code_scheme>
