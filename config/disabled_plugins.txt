@@ -3,10 +3,5 @@ CVS
 Subversion
 TestNG-J
 hg4idea
-org.intellij.groovy
-org.jetbrains.android
 org.jetbrains.idea.eclipse
-org.jetbrains.kotlin
-org.jetbrains.plugins.gradle
-org.jetbrains.plugins.terminal
 org.jetbrains.settingsRepository

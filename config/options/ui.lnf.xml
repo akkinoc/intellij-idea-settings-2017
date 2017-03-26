@@ -2,8 +2,8 @@
   <component name="UISettings">
     <option name="EDITOR_TAB_LIMIT" value="50" />
     <option name="HIDE_TOOL_STRIPES" value="false" />
-    <option name="SHOW_MEMORY_INDICATOR" value="true" />
-    <option name="SCROLL_TAB_LAYOUT_IN_EDITOR" value="false" />
     <option name="MARK_MODIFIED_TABS_WITH_ASTERISK" value="true" />
+    <option name="SCROLL_TAB_LAYOUT_IN_EDITOR" value="false" />
+    <option name="SHOW_MEMORY_INDICATOR" value="true" />
   </component>
 </application>

@@ -19,7 +19,7 @@ My IntelliJ IDEA Settings.
     * Confirm application exit: OFF
 * Project Opening: Open project in new window
 * Synchronization
-    * Use "safe write": OFF
+    * Use "safe write" (save changes to a temporary file first): OFF
 
 ### Appearance & Behavior > Notifications
 
@@ -66,11 +66,13 @@ My IntelliJ IDEA Settings.
     * Imports: OFF
     * HTML 'style' attribute: OFF
     * XML entities: OFF
+    * Data URIs: OFF
     * One line methods: OFF
     * "Closures" (anonymous classes implementing one method, before Java 8): OFF
     * Generic constructor and method parameters: OFF
     * I18n strings: OFF
     * @SuppressWarnings: OFF
+    * Android String References: OFF
 
 ### Editor > General > Console
 
@@ -102,7 +104,6 @@ My IntelliJ IDEA Settings.
                 * `import java.awt.*`: Delete
                 * `import javax.swing.*`: Delete
             * Import Layout
-                * Layout static imports separately: ON
                 * `import java.*`: Sort
                 * `import javax.*`: Sort
                 * `import static java.*`: Sort
@@ -120,7 +121,7 @@ My IntelliJ IDEA Settings.
 
 ### Editor > Inspections
 
-* Profile: Project Default
+* Profile: Akihiro Kondo
     * BashSupport
         * Unresolved variable: OFF
     * Ignore
@@ -142,10 +143,6 @@ My IntelliJ IDEA Settings.
                         * Fields: "Package-private": ON
                         * Methods: "Package-private": ON
                         * Parameter in "Package-private" methods: ON
-        * Logging issues
-            * Logger initialized with foreign class: OFF
-        * Probable bugs
-            * 'Optional.get()' without 'isPresent()' check: OFF
     * Properties Files
         * Unused Property: OFF
     * Spelling
@@ -158,7 +155,8 @@ My IntelliJ IDEA Settings.
 
 ### Editor > File Encodings
 
-* Properties Files
+* Project Encoding: UTF-8
+* Properties Files (*.properties)
     * Default encoding for properties files: UTF-8
 
 ### Editor > File Types
@@ -168,24 +166,14 @@ My IntelliJ IDEA Settings.
 * Properties
     * `*.factories`: Add
 
-### Editor > Images
-
-* Editor
-    * Zoom image with mouse wheel (Ctrl + Mouse Wheel): ON
-
 ### Plugins
 
-* Android Support: Disable
 * Ant Support: Disable
 * CVS Integration: Disable
 * Eclipse Integration: Disable
-* Gradle: Disable
-* Grooby: Disable
 * hg4idea: Disable
-* Kotlin: Disable
 * Settings Repository: Disable
 * Subversion Integration: Disable
-* Terminal: Disable
 * TestNG-J: Disable
 
 ### Version Control > Confirmation
@@ -202,7 +190,7 @@ My IntelliJ IDEA Settings.
 
 * Path to Git executable: (Path on my computer)
 
-### Build, Execution, Deployment > Maven > Importing
+### Build, Execution, Deployment > Build Tools > Maven > Importing
 
 * Import Maven projects automatically: ON
 * Automatically download
