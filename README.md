@@ -11,6 +11,7 @@ My IntelliJ IDEA Settings.
 * Window Options
     * Show tool window bars: ON
     * Show memory indicator: ON
+    * Small labels in editor tabs: ON
 
 ### Appearance & Behavior > System Settings
 
