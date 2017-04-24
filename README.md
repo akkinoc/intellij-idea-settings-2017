@@ -116,6 +116,15 @@ My IntelliJ IDEA Settings.
     * HTML
         * Other
             * Align attributes: OFF
+    * Kotlin
+        * Imports
+            * Top-level Symbols
+                * Use single name import
+            * Java Statics and Enum Members
+                * Use single name import
+            * Packages to Use Import with '*'
+                * `import java.util.*`: Delete
+                * `import kotlinx.android.synthetic.*`: Delete
     * XML
         * Other
             * Align attributes: OFF
@@ -144,6 +153,9 @@ My IntelliJ IDEA Settings.
                         * Fields: "Package-private": ON
                         * Methods: "Package-private": ON
                         * Parameter in "Package-private" methods: ON
+    * Kotlin
+        * Can be replaced with lambda: ON
+        * Missing KDoc comments for public declarations: ON
     * Properties Files
         * Unused Property: OFF
     * Spelling
