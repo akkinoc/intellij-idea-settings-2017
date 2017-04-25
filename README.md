@@ -154,8 +154,7 @@ My IntelliJ IDEA Settings.
                         * Methods: "Package-private": ON
                         * Parameter in "Package-private" methods: ON
     * Kotlin
-        * Can be replaced with lambda: ON
-        * Missing KDoc comments for public declarations: ON
+        * Unuse symbol: OFF
     * Properties Files
         * Unused Property: OFF
     * Spelling
