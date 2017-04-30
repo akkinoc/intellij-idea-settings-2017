@@ -218,6 +218,11 @@ My IntelliJ IDEA Settings.
 * Default
     * Enable annotation processing: ON
 
+### Build, Execution, Deployment > Compiler > Kotlin Compiler
+
+* Kotlin to JVM
+    * Target JVM version: 1.8
+
 ### Build, Execution, Deployment > Debugger
 
 * Hide debug window on process termination: ON
