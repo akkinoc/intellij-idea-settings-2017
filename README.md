@@ -133,6 +133,7 @@ My IntelliJ IDEA Settings.
 
 * Profile: Akihiro Kondo
     * BashSupport
+        * Missing include file: OFF
         * Unresolved variable: OFF
     * Ignore
         Unused entry: OFF
