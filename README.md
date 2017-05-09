@@ -137,7 +137,7 @@ My IntelliJ IDEA Settings.
         * Simple variable usage: OFF
         * Unresolved variable: OFF
     * Ignore
-        Unused entry: OFF
+        * Unused entry: OFF
     * Java
         * Abstraction issues
             * 'Optional' used as field or parameter type: OFF
