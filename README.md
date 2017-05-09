@@ -134,6 +134,7 @@ My IntelliJ IDEA Settings.
 * Profile: Akihiro Kondo
     * BashSupport
         * Missing include file: OFF
+        * Simple variable usage: OFF
         * Unresolved variable: OFF
     * Ignore
         Unused entry: OFF

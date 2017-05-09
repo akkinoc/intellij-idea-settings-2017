@@ -1,6 +1,7 @@
 <profile version="1.0">
   <option name="myName" value="Akihiro Kondo" />
   <inspection_tool class="BashMissingInclude" enabled="false" level="WARNING" enabled_by_default="false" />
+  <inspection_tool class="BashSimpleVarUsage" enabled="false" level="WEAK WARNING" enabled_by_default="false" />
   <inspection_tool class="BashUnresolvedVariable" enabled="false" level="WARNING" enabled_by_default="false" />
   <inspection_tool class="CanBeFinal" enabled="false" level="WARNING" enabled_by_default="false">
     <option name="REPORT_CLASSES" value="false" />
