@@ -156,6 +156,7 @@ My IntelliJ IDEA Settings.
                         * Methods: "Package-private": ON
                         * Parameter in "Package-private" methods: ON
     * Kotlin
+        * Can be replaced with function reference: ON
         * Unuse symbol: OFF
     * Properties Files
         * Unused Property: OFF
